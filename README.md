@@ -19,4 +19,4 @@ Overall, the project challenged the team to explore control systems and machine 
 4. Júlio Santos - Email: up202207975@up.pt
 5. Vasco Melo - E-mail: up202207564@up.pt
 
-### Project Grade: 18,6/20
+### Project Grade: 19,0/20
